@@ -86,6 +86,11 @@
 			<a href="https://git.sr.ht/~delthas/senpai/" rel="external">senpai</a> client, but it's pretty
 			advanced to set up and use, so i wouldn't recommend it for beginners.
 		</p>
+		<p>
+			alternatively, <a href="https://irssi.org" rel="external">irssi</a> is a good choice if you
+			want something more traditional, which does not support all IRCv3 features. you could run it
+			on your server, always running in tmux session, avoiding the need for a bouncer.
+		</p>
 
 		<details>
 			<summary>
